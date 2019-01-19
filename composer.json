@@ -1,0 +1,17 @@
+{
+  "name": "bluenest/blue-nest-ftp",
+  "description": "Blue nest ftp functions.",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Bryan",
+      "email": "bryan@bluenestdigital.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "files": [
+      "src/functions/ftp_functions.php"
+    ]
+  }
+}
